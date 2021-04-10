@@ -1,1 +1,24 @@
-W07 Assignment: Program 7.1Write a method that calculates and returns the average value for an array of doubles. The method header will look like the following:Ê Ê public static double average(double[ ] array)Then write a main( ) method that does the following:1. Tells the user what the program does.2. Prompts the user to enter 5 double values.3. Stores these values in an array.4. Calls the average method you wrote to calculate and return the average value of the numbers in the array.5. Displays the average value, with two digits after the decimal point.6. Displays a goodbye message.The following example shows you what your program should look like when it runs (user input is in green):This program calculates the average of five numbers.Please enter a number: 5.4Please enter a number: 6.2Please enter a number: 12.2Please enter a number: 8.6Please enter a number: 7.8The average of these five numbers is 8.04Goodbye ...W07 Assignment: Program 7.2For this program you will write two methods. The first computes and returns the mean value for an array of doubles. The method header for this method looks like this:Ê Ê Êpublic static double mean(double[ ] x);The second method computes and returns the standard deviation for a sample population. The method header for this method looks like this:Ê Ê Êpublic static double deviation(double[ ] x);The equation for the mean:????????=(??1+??2+??3+...+????)Ö??mean=(x1+x2+x3+...+xn)ÖnÊEquation for the Standard Deviation:ÊNow write a main( ) method that does the following:1. Tells the use what the program does.2. Prompts the user to enter five numbers.3. Saves the user's input in an array of doubles.4. Uses the methods above to compute the mean and the standard deviation for the numbers in the array.5. Displays the mean and the standard deviation with 2 digits after the decimal point.6. Displays a goodbye message.7. Your file should have the proper file prologue, and each method should have the proper method prologue.The following example show you what your program should look like when it runs (user input is green):This program computes the mean and the standard deviation for a set of numbers.Enter a number: 3.5Enter a number: 4Enter a number: 6.1Enter a number: 6Enter a number: 7.5The mean of this set of numbers is 5.42The standard deviation is 1.65Goodbye ...
+W08 Assignment: Program 8.1
+Using the example of the Circle class from section 9.2 of the textbook design a Rectangle class. Create a UML class diagram that shows your design. Your UML class diagram must be submitted as part of this assignment. The preferred format for you class diagram is a .PDF file. This week's Powerpoint slides describe how to create a UML class digram. Your Rectangle class should contain the following:
+
+Two data fields named width and height, that specify the width and height of the rectangle. The default values for both width and height should be 1.
+A no-arg constructor that creates a default rectangle object.
+A parameterized constructor that creates a rectangle object with the specified height and width.
+Getter and setter methods for height and width.
+A method named getArea( ) that computes and returns the area of the rectangle.
+ A method names getPerimeter( ) that computes and returns the perimeter of the rectangle.
+Your file should have the proper file prologue (comments) and each method should have the proper method prologue (comments).
+Then write a short Java program that implements your Rectangle class, and a main() method that does the following:
+
+Tells the user what the program does.
+Creates two Rectangle objects, the first with a height of 4 and a width of 40, the second with a height of 3.5 and a width of 5.
+Call the methods in your Rectangle class to output the width, height, area, and perimeter of each rectangle, with 2 digits after the decimal point. 
+Output a goodbye message.
+The following example illustrates what your program should look like when it runs.W08 Assignment: Program 8.2
+Wrote a short Java program that does the following:
+
+Tells the user what the program does.
+Using the Date class (described in section 9.6.1 of the textbook) Create a Date object and set it's elapsed time to 10000, 100000, 1000000, 10000000, 100000000, 1000000000, and 10000000000 and displays the data and time using the toString( ) method, respectively. 
+Display a goodbye message.
+The following example shows you what your program should look like when it runs: (Your values will match the timezone where the program is executed.)
+
