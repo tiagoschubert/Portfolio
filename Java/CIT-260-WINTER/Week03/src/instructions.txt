@@ -8,21 +8,7 @@ Write a short Java program that does the following:
 6. Calculates the day of the week for the future day.
 7. Displays the day of the week for today and the day of the week for the future day.
 8. Outputs a goodbye message.
-Here are some examples of what your program should look like when it runs (user input is in green):
-    Given today's day of the week and some number of days in the future
-    this program will tell you the day of the week for the future day.
-    Enter today's day of the week (0 for Sunday, 1 for Monday, etc): 1
-    Enter the number of days in the future: 15
- 
-    Today is Monday and the future day is Tuesday.
-    Goodbye.
-    Given today's day of the week and some number of days in the future
-    this program will tell you the day of the week for the future day.
-    Enter today's day of the week (0 for Sunday, 1 for Monday, etc): 1
-    Enter the number of days in the future: -5
- 
-    -5 is invalid. You must enter a positive number.
-    Goodbye.
+
 
 
 
@@ -37,19 +23,4 @@ Write a short Java program that does the following:
 6. Calculates the number of days in that month. Your program should correctly handle leap years (see listing 3.7 in the textbook).
 7. Displays the number of days in that month.
 8. Outputs a goodbye message.
-Here are some examples of what your program should look like when it runs (user input is in green):
-    Given a year and a month in that year, this program will tell you
-    the number of days in that month.
-    Enter a year: 1953
-    Enter a value for the month(1 = Jan, 2 = Feb, etc): 3
- 
-    March of 1953 has 31 days in it.
-    Goodbye.
-    Given a year and a month in that year, this program will tell you
-    the number of days in that month.
-    Enter a year: 2020
-    Enter a value for the month(1 = Jan, 2 = Feb, etc): 13
- 
-    13 is invalid. Month values must be between between 1 and 12, inclusive.
-    Goodbye.
 

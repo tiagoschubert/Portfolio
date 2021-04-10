@@ -3,16 +3,10 @@ Write a short Java program that does the following:
 1. Tells the user what the program does.
 2. Prompts the user to enter a temperature in degrees Celsius.
 3. Gets the user's input and saves it in a variable declared as a double.
-4. Converts the Celsius temperature to a temperature in degrees Fahrenheit, using the formula tempf = (9/5) tempc+ 32
+4. Converts the Celsius temperature to a temperature in degrees Fahrenheit, using the formula√ätempf√ä= (9/5) tempc+ 32
 5. Outputs the Celsius temperature and the Fahrenheit temperature, with 2 digits after the decimal point.
 6. Outputs a goodbye message.
-Here is an example of what your program should look like when it runs (user input is in green):
-   This program converts a temperature in degrees Celsius into 
-   a temperature in degrees Fahrenheit. Enter a temperature in
-   degrees Celsius: 43.5
- 
-   43.50 degrees Celsius is equal to 110.30 degrees Fahrenheit.
-   Goodbye.
+
 
 
 W02 Assignment: Program 2.2
@@ -26,16 +20,5 @@ Write a short Java program that does the following:
 7. Calculates the tax on the meal. The tax rate is 3.2%.
 8. Calculates the total bill = meal cost + tip + tax.
 9. Outputs the tip, the tax, and the total value of the bill.
-      All values will be formatted to show a dollar sign and 2 digits after the decimal point.
-10. Outputs a goodbye message.
-Here is an example of what your program should look like when it runs (user input is in green):
-    Given the price of a meal and a percentage to use for the tip, 
-    this program calculates the tip, the tax, and the total amount of the bill.
-    Enter the cost of the meal: 12.50
-    Enter the tip percentage: 15
- 
-    The tip is $1.88
-    The tax is $0.40
-    The total bill is $14.78
-    Goodbye.
+
 

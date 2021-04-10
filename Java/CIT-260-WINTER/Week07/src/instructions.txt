@@ -1,6 +1,6 @@
 W07 Assignment: Program 7.1
 Write a method that calculates and returns the average value for an array of doubles. The method header will look like the following:
-Ê Ê public static double average(double[ ] array)
+ÃŠ ÃŠ public static double average(double[ ] array)
 Then write a main( ) method that does the following:
 1. Tells the user what the program does.
 2. Prompts the user to enter 5 double values.
@@ -25,15 +25,11 @@ Goodbye ...
 
 W07 Assignment: Program 7.2
 For this program you will write two methods. The first computes and returns the mean value for an array of doubles. The method header for this method looks like this:
-Ê Ê Êpublic static double mean(double[ ] x);
+public static double mean(double[ ] x);
 The second method computes and returns the standard deviation for a sample population. The method header for this method looks like this:
-Ê Ê Êpublic static double deviation(double[ ] x);
-The equation for the mean:
-????????=(??1+??2+??3+...+????)Ö??mean=(x1+x2+x3+...+xn)Ön
-Ê
-Equation for the Standard Deviation:
+public static double deviation(double[ ] x);
 
-Ê
+
 Now write a main( ) method that does the following:
 1. Tells the use what the program does.
 2. Prompts the user to enter five numbers.
