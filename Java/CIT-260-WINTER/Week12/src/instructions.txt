@@ -1,0 +1,30 @@
+W12 Exercise: Assignment 12
+
+Objectives
+This assignment will give students practice in the following: 
+* Using primitive data types and operators
+* Using Methods
+* Using abstract methods and abstract classes
+* Designing and creating your own classes that use inheritance and polymorphism
+* Using an ArrayList
+Overview
+* Task: Complete the programming exercise.
+* Instructor: Grades and provides feedback.
+Instructions
+In the last few assignments, you have been given very specific design details regarding the classes you were to develop for your programs. In this assignment, you will be told what the program must do, but it will be up to you to use the object oriented design concepts you have learned over the past few weeks to design the classes you will use in your program. You will be graded on how well your design uses the concepts of abstract classes, inheritance, and polymorphism.
+Your program must do the following:
+1. Tell the user what the program does.
+2. Create the following objects and store the references to them in a single ArrayList.
+o A Circle object with a radius of 10 inches and an identifier of 156.
+o A Square object with a side of 2 inches and an identifier of 237.
+o A  Right Triangle with a height of 3 inches, a base of 4 inches and an identifier of 212.
+3. Iterate through the ArrayList and display the area of the three different shape objects you have created. Your output should look like this:
+Identifier Area
+156        314.56 sq. inches
+237          4.00 sq. inches
+212.         6.00 sq. inches
+ 
+Create a UML class diagram that shows all of the classes in your design, and shows their relationship to one another. The preferred file format for your class diagram is a .PDF file.
+Develop the code for your program. Compile and test your code. When you are satisfied that your program works correctly, place the complete project folder for the program into a zip file.  Add the UML file to the .zip file.
+Submit the .zip file here on Canvas by the due date.
+

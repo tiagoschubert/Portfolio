@@ -1,0 +1,21 @@
+W01 Assignment: Program 1.1
+
+To complete this assignment, you should have downloaded and installed IntelliJ, as described in this weeks PowerPoint slides.
+
+Using Listing 1.2 in the textbook as an example, write a Java program that displays your name, CIT260 and your section, your home town, and your favorite dessert. Name your project W01dot1. Your program should conform to the style guidelines outlined in this weeks PowerPoint slides. The output of your program should look like the example below:
+
+     Jeremiah Jones
+     CIT260-07
+     Lehi, Utah
+     Banana Cream Pie
+
+
+W01 Assignment: Program 1.2
+Write a short Java program that outputs the following pattern: 
+
+
+     J     A    V     V     A
+     J    A A    V   V     A A
+J    J   AAAAA    V V     AAAAA
+ J  J   A     A    V     A     A
+

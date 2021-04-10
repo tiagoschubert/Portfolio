@@ -1,0 +1,61 @@
+W06 Assignment: Program 6.1
+Write a short Java program that does the following:
+1. Tells the user what the program does.
+2. Prompts the user to an investment amount, for example, 1000.
+3. Gets the user's input and saves it. If the user's input is not a positive, non-zero value, display an error message, then loop back and prompt for a new value. Stay in this loop until you have a valid value.
+4. Prompts the user to enter an annual interest rate between 0 and 100. For example, 9 would be 9%.
+5. Gets the user's input and saves it. If the user's input is not positive or if it is greater than 100, display an error message, then loop back and prompt for a new value. Stay in this loop until you have a valid value.
+6. Using a method that you have written, calculate and display the future value of the investment
+  for a period of 10 years. The formula for computing the future value of an investment is
+     futureValue = investmentAmount x (1 + monthlyInterestRate)numberOfYears * 12
+
+  The method header for your method should look like this:
+     public static double futureValue(double investmentAmount, double monthlyInterestRate, int years)
+Here is an example of what your program should look like when it runs (user input is in green):
+Given an investment amount and an annual interest rate, this program 
+will calculate the future value of the investment for a period of
+ten years. 
+
+Enter the a positive, non-zero value for the investment: 1000
+Enter an annual interest rate, between 0 and 100: 9
+
+Years   Future Value
+ 1       $1093.81
+ 2       $1196.41
+ 3       $1308.65
+ 4       $1431.41
+ 5       $1565.68
+ 6       $1712.55
+ 7       $1873.20
+ 8       $2048.92
+ 9       $2241.12
+10       $2451.36
+
+Goodbye ...
+
+
+
+
+
+
+W06 Assignment: Program 6.2
+Write a short Java program that contains the following two methods:
+     public static double celsiusToFahrenheit(double tempCelsius)
+     public static double fahrenheitToCelsius(double tempFahrenheit)
+Your program should
+1. Tell the user what the program does.
+2. Invoke the above two methods to compute and display the table shown below.
+3. Output a goodbye message.
+Celsius        Fahrenheit     |    Fahrenheit     Celsius        
+----------------------------------------------------------
+40.0           104.0          |    120.0          48.89          
+39.0           102.2          |    110.0          43.33          
+38.0           100.4          |    100.0          37.78          
+37.0            98.6          |     90.0          32.22          
+36.0            96.8          |     80.0          26.67          
+35.0            95.0          |     70.0          21.11          
+34.0            93.2          |     60.0          15.56          
+33.0            91.4          |     50.0          10.00          
+32.0            89.6          |     40.0           4.44           
+31.0            87.8          |     30.0          -1.11 
+

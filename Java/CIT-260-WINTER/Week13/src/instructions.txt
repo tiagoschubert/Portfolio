@@ -1,0 +1,31 @@
+W13 Exercise: Assignment 13
+Objectives
+This assignment will give students practice in:
+* Designing and using classes 
+* Designing and using an abstract class
+* Using composition, inheritance, and polymorphism
+* Reading data from a file, and handling any I/O exceptions
+* Using an ArrayList
+Overview
+* Task: Complete the programming exercise.
+* Instructor: Grades and provides feedback.
+Instructions 
+For this assignment you will start with the program that you wrote for week 12. Your shape objects will be positioned at a point in 2-dimensional space. Your program will write a report to a text file, then read the report back in and display it. 
+Your main( ) method must do the following:
+1. Tell the user what the program does.
+2. Create the following objects and store the references to them in a single ArrayList.
+o A Circle object at point (1,1) with a radius of 10 inches and an identifier of 156
+o A Square object at point (1,3) with a side of 2 inches and an identifier of 237
+o A  Right Triangle at point (3,3) with a height of 3 inches, a base of 4 inches and an identifier of 212
+3. Create a text file and write the data for each object to the file. Handle any IO exceptions.
+4. Read the data from the file back into your program. Handle any IO Exceptions.
+5. Using the data you just read from the file, display a report that looks like the following:
+Shape      ID  Position  Area
+Circle    156  (1,1)     314.16
+Square    237  (1,3)       4.00
+Triangle  212  (3,3)       6.00
+Create a UML class diagram that shows all of the classes in your design, and shows their relationship to one another. The preferred file format for your class diagram is a .PDF file.
+Develop the code for your program. Compile and test your code. When you are satisfied that your program works correctly, place the complete project folder for the program into a zip file.  
+Add the UML file to the .zip file: UML IS WORHT 5 Points EXTRA CREDIT!! 
+Submit the .zip file here on Canvas by the due date.
+

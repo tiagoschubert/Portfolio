@@ -1,0 +1,35 @@
+W05 Assignment: Program 5.1
+Write a short Java program that does the following:
+1. Tells the user what the program does.
+2. Uses a loop to calculate pounds per kilogram (1 kilogram = 2.2 pounds) and display the following table.
+3. Outputs a goodbye message.
+        kilograms    pounds
+        ---------    ------
+         1           2.2
+         3           6.6
+         5          11.0
+         7          15.4
+         9          19.8
+        11          24.2
+        13          28.6
+        15          33.0
+
+
+
+
+W05 Assignment: Program 5.2
+Write a short Java program that does the following:
+1. Tells the user what the program does.
+2. Uses a loop to display a table of all of the numbers from 100 to 1000 that are divisible by both 5 and 6.
+   The numbers must be separated by exactly one space and there must be 10 numbers per line.
+3. Displays a goodbye message.
+Your output should look like the following:
+This program displays all of the numbers from 100 to 1000
+that are divisible by both 5 and 6. 
+
+120 150 180 210 240 270 300 330 360 390
+420 450 480 510 540 570 600 630 660 690
+720 750 780 810 840 870 900 930 960 990
+
+Goodbye
+
