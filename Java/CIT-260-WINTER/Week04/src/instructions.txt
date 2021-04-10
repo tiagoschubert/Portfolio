@@ -6,12 +6,7 @@ Write a short Java program that does the following:
 4. Converts the hexadecimal digit into a four digit binary number. You may not use any of the conversion methods built into Java, such as toBinaryString( ), to do this.
 5. Outputs the four digit binary number, including any leading zeros.
 6. Outputs a goodbye message.
-Here are some examples of what your program should look like when it runs (user input is in green):
-   This program converts a hexadecimal digit into a four digit binary number. 
-   Enter a hexadecimal number: B
- 
-   The binary value is 1011.
-   Goodbye.
+
 
 
 
@@ -28,21 +23,5 @@ Write a short Java program that does the following:
 9. Calculates the gross pay and the net pay after subtracting the withholding taxes.
 10. Outputs a pay statement as shown in the example below.
 11. Outputs a goodbye message.
-Here is an example of what your program should look like when it runs (user input is in green):
-   Given your name, hours worked, and hourly wage, this program calculates your 
-   gross pay, state withholding tax, federal withholding tax, and your net pay.
-   It then displays your pay stub.
-   Enter your first and last name: John Brown
-   Enter the hours you worked this week: 10.0
-   Enter your hourly wage: 9.75
 
-   Pay Stub for John Brown
-   Hours Worked: 10
-   Hourly Wage: $9.75
-   Gross Pay: $97.50
-   State Tax Withheld: $8.78
-   Federal Tax Withheld: $19.50
-   Net Pay: $69.23
-
-   Goodbye.
 
