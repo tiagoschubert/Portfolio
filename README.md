@@ -1,3 +1,5 @@
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortRound&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=DefaultNatural&mouthType=Twinkle&skinColor=Pale'
+/>
 <h1> Hi there, here is Tiago!👋 </h1>
 
 <h3>A bit about me</h3>
