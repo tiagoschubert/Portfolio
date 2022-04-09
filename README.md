@@ -1,16 +1,16 @@
 <img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortRound&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=DefaultNatural&mouthType=Twinkle&skinColor=Pale'
 />
-<h1> Hi there, here is Tiago!👋 </h1>
+<h1> Hi there, I'm Tiago Schubert!👋 </h1>
 
 <h3>A bit about me</h3>
 <ul>
-<li>🎓I'm doing a BS in Science of Applied Technology at BYUI.
+<li>🎓 I'm doing a BS in Science of Applied Technology at BYUI.
 <li>📚 I spend most of my time learning and taking care of my two daughters.
 <li>🧠 I enjoy playing games and learning new things.
 <li>Fun fact: I love aquarium and fish so I have a profile on <a href="https://www.instagram.com/seuaqua">instagram</a> about it.
 </ul>
 
-<h3>👨🏽‍💻Working on</h3>
+<h3>👨🏽‍💻 Working on</h3>
 <p> CIT 365 .NET Software Development </p>
 <p> CSE 372 Requirements Elicitation </p>
  
@@ -19,7 +19,7 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb" width="40" height="40"/> </a>
 
 
-<h3>🏋️I'm learning about</h3>
+<h3>🏋️ I'm learning about</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 
@@ -27,7 +27,7 @@
 <a href = "mailto: schubert.tiago@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" width="40" height="40"/></a>
 <a href = "https://www.linkedin.com/in/tiago-schubert/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/></a>
 
-<h3>Projects</h3>
+<h3>Some Projects</h3>
 <p><a href="http://sacredplanner.xyz/">Sacred Planner</a></p>
 <p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/lesson11/preston/preston.html">Cleenday weather</a></p>
 <p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/final/tours.html">Cozumel Scoots</a></p>
