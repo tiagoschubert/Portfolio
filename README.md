@@ -25,3 +25,5 @@
 <a href = "mailto: schubert.tiago@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" width="40" height="40"/></a>
 <a href = "https://www.linkedin.com/in/tiago-schubert/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/></a>
 
+<h3>Projects</h3>
+<p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/lesson11/preston/preston.html">Cleenday weather</a></p>
