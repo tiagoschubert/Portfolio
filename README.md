@@ -28,5 +28,5 @@
 <h3>Projects</h3>
 <p><a href="http://sacredplanner.xyz/">Sacred Planner</a></p>
 <p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/lesson11/preston/preston.html">Cleenday weather</a></p>
-<p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/final/contact.html">Cozumel Scoots</a></p>
+<p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/final/tours.html">Cozumel Scoots</a></p>
 
