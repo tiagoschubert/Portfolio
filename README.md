@@ -6,7 +6,7 @@
 <li>🎓 I'm doing a BS in Science of Applied Technology at BYUI.
 <li>📚 I spend most of my time learning and taking care of my two daughters.
 <li>🧠 I enjoy playing games and learning new things.
-<li>Fun fact: I love aquarium and fish so I have a profile on <a href="https://www.instagram.com/seuaqua">instagram</a> about it.
+<li>Fun fact: I love aquariums and fish, so I have a profile on <a href="https://www.instagram.com/seuaqua">instagram</a> about it.
 </ul>
 
 <h3>👨🏽‍💻 Working on</h3>
