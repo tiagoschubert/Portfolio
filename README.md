@@ -1,6 +1,6 @@
-<img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortRound&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=DefaultNatural&mouthType=Twinkle&skinColor=Pale' alt="Tiago picture" width="50"
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortRound&accessoriesType=Blank&hairColor=BlondeGolden&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=DefaultNatural&mouthType=Twinkle&skinColor=Pale' 
 />
-<img src='https://tiagoschubert.github.io/port/1649813693601.jpg'/>
+<img src='https://tiagoschubert.github.io/port/1649813693601.jpg' alt="Tiago picture" width="150"/>
 <h1> Hi there, I'm Tiago Schubert!👋 </h1>
 
 <h3>A bit about me</h3>
