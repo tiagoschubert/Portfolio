@@ -28,6 +28,8 @@
 
 <h3>Some Projects</h3>
 <p><a href="http://sacredplanner.xyz/">Sacred Planner</a> - This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. This project was built in Node.js.</p>
-<p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/lesson11/preston/preston.html">Cleenday weather</a></p>
+
+<p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/lesson11/preston/preston.html">Cleenday weather</a> - In this project I made a Wheather Website with HTML, CSS, JavaScript. I connected this website to a API provided by openweathermap.org.</p>
+
 <p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/final/tours.html">Cozumel Scoots</a></p>
 
