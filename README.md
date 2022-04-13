@@ -1,5 +1,5 @@
-<img src='https://tiagoschubert.github.io/port/1649813693601.jpg' alt="Tiago picture" width="250"/>
-<h1> Hi there, I'm Tiago Schubert! 👋 </h1>
+<img src='https://tiagoschubert.github.io/port/1649813693601.jpg' alt="Tiago picture" width="250"/> <h1> Hi there, I'm Tiago Schubert! 👋 </h1>
+
 
 <h3>A bit about me</h3>
 <ul>
