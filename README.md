@@ -31,5 +31,5 @@
 
 <p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/lesson11/preston/preston.html">Cleenday weather</a> - In this project I made a Weather Website with HTML, SCSS, JavaScript. I connected this website to a API provided by openweathermap.org.</p>
 
-<p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/final/tours.html">Cozumel Scoots</a> - Working on it yet.</p>
+
 
