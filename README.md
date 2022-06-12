@@ -11,7 +11,7 @@
 
 <h3>👨🏽‍💻 Working with</h3>
 <p> Frontend: Js, React and Ajax</p>
-<p> Backend CakePHP and Node.js </p>
+<p> Backend: CakePHP and Node.js </p>
 <p> Wordpress plugin customization
  
 <h3>I'm also good at working with</h3>
