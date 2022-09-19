@@ -35,7 +35,7 @@
 <a href = "https://www.linkedin.com/in/tiago-schubert/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/></a>
 
 <h3>Some Projects</h3>
-<p><a href="http://sacredplanner.xyz/">Sacred Planner</a> - This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. This project was built in Node.js.</p>
+<p><a href="https://github.com/lop19029/CSE341node_project#The-Sacred-Planner">Sacred Planner</a> - This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. This project was built in Node.js.</p>
 
 <p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/lesson11/preston/preston.html">Cleenday weather</a> - In this project I made a Weather Website with HTML, SCSS, JavaScript. I connected this website to a API provided by openweathermap.org.</p>
 
