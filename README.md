@@ -3,7 +3,7 @@
 
 <h3>A bit about me</h3>
 <ul>
-<li>🎓 I'm working on a BS in Science of Applied Technology at BYUI.
+<li>🎓 I just finished my BS in Science of Applied Technology at BYUI.
 <li>📚 I spend most of my time studying and taking care of my two daughters.
 <li>🧠 I enjoy playing games and learning new things.
 <li>Fun fact: I love aquariums and fish, so I have a profile on <a href="https://www.instagram.com/seuaqua">instagram</a> about it.
