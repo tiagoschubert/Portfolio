@@ -35,9 +35,11 @@
 <a href = "https://www.linkedin.com/in/tiago-schubert/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/></a>
 
 <h3>Some Projects</h3>
+<p><a href="https://github.com/SamgeeGamwise/Spring2021-CIT365-TeamE">Sacred Planner in C# </a> - This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. This project was built with ASP.NET Core MVC w/ Entity Framework </p>
+
 <p><a href="https://github.com/lop19029/CSE341node_project#The-Sacred-Planner">Sacred Planner in Node.js.</a> - This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. </p>
 
 <p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/lesson11/preston/preston.html">Cleenday weather</a> - In this project I made a Weather Website with HTML, SCSS, JavaScript. I connected this website to a API provided by openweathermap.org.</p>
 
-<p><a href="https://github.com/SamgeeGamwise/Spring2021-CIT365-TeamE">Sacred Planner in C#</a> - This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. This project was built with ASP.NET Core MVC w/ Entity Framework </p>
+
 
