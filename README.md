@@ -39,5 +39,5 @@
 
 <p><a href="https://tiagoschubert.github.io/trebuhcsogait.github.io/lesson11/preston/preston.html">Cleenday weather</a> - In this project I made a Weather Website with HTML, SCSS, JavaScript. I connected this website to a API provided by openweathermap.org.</p>
 
-<p><a href="https://github.com/SamgeeGamwise/Spring2021-CIT365-TeamE">Cleenday weather</a> - In this project I made a Weather Website with HTML, SCSS, JavaScript. I connected this website to a API provided by openweathermap.org.</p>
+<p><a href="https://github.com/SamgeeGamwise/Spring2021-CIT365-TeamE">Sacred Planner</a> - This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. This project was built in Node.js </p>
 
