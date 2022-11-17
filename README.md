@@ -31,6 +31,8 @@
 
 
 <h3>Let me know how could I help you</h3>
+In my Internship I was working with <a href="https://glymedplus.com/">Glymed</a> 
+
 <a href = "mailto: schubert.tiago@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" width="40" height="40"/></a>
 <a href = "https://www.linkedin.com/in/tiago-schubert/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/></a>
 
