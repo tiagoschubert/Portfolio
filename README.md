@@ -37,7 +37,7 @@
 <a href = "https://www.linkedin.com/in/tiago-schubert/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/></a>
 
 <h3>Some Projects</h3>
-<p><a href="https://glymedplus.com/">Glymed Plus (React Native) -</a> In my Internship I was working in some pages of this site.</p> 
+<p><a href="https://glymedplus.com/">Glymed Plus (React Native) -</a> In my Internship I was working in some pages of this site. If you have any questions about what I did here just send a message and I can explain.</p> 
 
 <p><a href="https://github.com/SamgeeGamwise/Spring2021-CIT365-TeamE">Sacred Planner (C#) </a> - This was a group project for my CIT 365 class. This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. This project was built with ASP.NET Core MVC w/ Entity Framework </p>
 
