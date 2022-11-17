@@ -31,12 +31,14 @@
 
 
 <h3>Let me know how could I help you</h3>
-In my Internship I was working with <a href="https://glymedplus.com/">Glymed</a> 
+
 
 <a href = "mailto: schubert.tiago@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" width="40" height="40"/></a>
 <a href = "https://www.linkedin.com/in/tiago-schubert/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/></a>
 
 <h3>Some Projects</h3>
+<a href="https://glymedplus.com/">Glymed Plus in React Native</a> In my Internship I was working in some pages of this site. 
+
 <p><a href="https://github.com/SamgeeGamwise/Spring2021-CIT365-TeamE">Sacred Planner in C# </a> - This was a group project for my CIT 365 class. This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. This project was built with ASP.NET Core MVC w/ Entity Framework </p>
 
 <p><a href="https://github.com/lop19029/CSE341node_project#The-Sacred-Planner">Sacred Planner in Node.js.</a> - This project is designed to help religious leaders of The Church of Jesus Christ of Latter-day Saints organize Sunday meetings. This was a group project for my CSE 341 class. </p>
